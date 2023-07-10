@@ -1,0 +1,20 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+ 
+body{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;  
+    background-color: black;
+    
+  }
+.font{
+    font-family: 'Questrial';
+
+}
+.main-text{
+    font-size: 80px;
+   
+   
+}
